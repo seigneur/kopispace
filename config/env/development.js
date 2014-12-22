@@ -7,7 +7,7 @@ module.exports = {
     debug: false
   },
   app: {
-    name: 'MEAN - FullStack JS - Development'
+    name: 'KOPISPACE - Where Ideas Brew^'
   },
   facebook: {
     clientID: 'DEFAULT_APP_ID',
