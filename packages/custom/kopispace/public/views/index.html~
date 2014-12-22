@@ -1,0 +1,46 @@
+    <section class="intro container content-section text-center" data-ng-controller="KopispaceController">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h1 class="brand-heading">KOPISPACE</h1>
+                        <p class="intro-text">Where Ideas Brew :)<br/></p>
+                        <div class="page-scroll">
+                            <a href="#info" class="btn btn-circle">
+                                <i class="fa fa-angle-double-down animated"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="info" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2 style="margin-top:50px">Introduction</h2>
+                <p>
+                   An initiative to create an  efficient and collaborative environment for lean companies to grow organically. <br/><br/>
+             We are gathering our thoughts and brewing this site.<br/>
+                   Join us, collaborate on transforming coworking together with us!<br/><br/>
+                   <span style="color:#f1e7c0">Warning! Detailed Plans and In Progress Ideas Below ! :-)</span>
+                   
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section id="countdown" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Countdown <small>Set your end date</small></h2>
+                <ul>
+                        <li>1. Open the file "noirval.js" findable in assets/js/<strong style="color:#0C9">noirval.js</strong></li>
+                        
+                        <li>3. So just set up the date that you want :)</li>
+                    </ul>
+            </div>
+        </div>
+    </section>
+

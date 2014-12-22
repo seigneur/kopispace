@@ -19,11 +19,14 @@ System.register(function(app, auth, database) {
   System.routes(app, auth, database);
 
   System.aggregateAsset('css', 'common.css');
-
+  //System.aggregateAsset('img', 'logo.png');
   // The middleware in config/express will run before this code
 
   // Set views path, template engine and default layout
   app.set('views', __dirname + '/server/views');
+
+
+//  app.use('/logo',__dirname + 'system/public/assets/img/logo.png');
 
   // Setting the favicon and static folder
   app.use(favicon(__dirname + '/public/assets/img/favicon.ico'));

@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('http://fonts.gstatic.com/s/montserrat/v6/zhcz-_WihjSQC0oHJ9TCYCEAvth_LlrfE80CYdSH47w.eot?#iefix') format('embedded-opentype'),
+  url('http://fonts.gstatic.com/s/montserrat/v6/zhcz-_WihjSQC0oHJ9TCYCEAvth_LlrfE80CYdSH47w.woff2') format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url('http://fonts.gstatic.com/s/montserrat/v6/IQHow_FEYlDC4Gzy_m8fcjvw3iLehEZ8Hqbhfrhp4xo.eot?#iefix') format('embedded-opentype'),
+  url('http://fonts.gstatic.com/s/montserrat/v6/IQHow_FEYlDC4Gzy_m8fcjvw3iLehEZ8Hqbhfrhp4xo.woff2') format('woff2');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 100;
+  src: url('http://fonts.gstatic.com/s/lato/v11/eFRpvGLEW31oiexbYNx7Y_esZW2xOQ-xsNqO47m55DA.eot?#iefix') format('embedded-opentype'),
+  local('Lato-Hairline'), url('http://fonts.gstatic.com/s/lato/v11/eFRpvGLEW31oiexbYNx7Y_esZW2xOQ-xsNqO47m55DA.woff2') format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 100;
+  src: url('http://fonts.gstatic.com/s/lato/v11/ReJM7XTHl2016WmPlSmWK_esZW2xOQ-xsNqO47m55DA.eot?#iefix') format('embedded-opentype'),
+   local('Lato-Hairline'), url('http://fonts.gstatic.com/s/lato/v11/ReJM7XTHl2016WmPlSmWK_esZW2xOQ-xsNqO47m55DA.woff2') format('woff2');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: url('http://fonts.gstatic.com/s/lato/v11/dPJ5r9gl3kK6ijoeP1IRsvY6323mHUZFJMgTvxaG2iE.eot?#iefix') format('embedded-opentype'),
+  url('http://fonts.gstatic.com/s/lato/v11/dPJ5r9gl3kK6ijoeP1IRsvY6323mHUZFJMgTvxaG2iE.woff2') format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: url('http://fonts.gstatic.com/s/lato/v11/fJ22-hkNvqdD_3TXCrYlmPY6323mHUZFJMgTvxaG2iE.eot?#iefix') format('embedded-opentype'),
+  url('http://fonts.gstatic.com/s/lato/v11/fJ22-hkNvqdD_3TXCrYlmPY6323mHUZFJMgTvxaG2iE.woff2') format('woff2');
+}
